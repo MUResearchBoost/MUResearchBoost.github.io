@@ -1,4 +1,4 @@
-## Welcome to the MU Research Boost project
+## Welcome to the MU Research Boost project :smile:
 
 ---
 
@@ -13,7 +13,7 @@
 
 
 ### Architecture
-
+![Architeccture Version 1.0](./img/architecture_v1.png)
 
 ### Technology Stack
 
