@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## MODEL
 ---
 单个页面：
@@ -84,8 +83,7 @@ Behavior :
     上 Spring Cloud？
     熔断，服务发现 网关 鉴权？
 
-=======
 ## Java
 mongodb spark connector
 https://docs.mongodb.com/spark-connector/current/java-api/
->>>>>>> 60f33cc935511ec9c49e49ae1aceb3e436b2db23
+
